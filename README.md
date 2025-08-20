@@ -20,6 +20,9 @@
 - **Icons**: Custom SVG icons
 - **Table Components**: Custom reusable table components
 
+## Demo App
+https://peopleflows.vercel.app/
+
 ## Installation
 
 1. Clone the repository:
@@ -28,5 +31,4 @@
 git clone https://github.com/kisbalqis/peopleflow.git
 cd peopleflow
 
-## Demo App
-https://peopleflows.vercel.app/
+
